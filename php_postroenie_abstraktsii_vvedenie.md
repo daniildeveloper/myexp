@@ -9,7 +9,7 @@
 Компоненты: функции первого класса, рекурсия, неизменяемые данные.
 
 Примеры языков: 
-* Мультипарадигменные: Clojure, Ocaml, Scala, F#;
+* Мультипарадигменные: Clojure(семейство Lisp), Ocaml, Scala, F#;
 * Императивные: Ruby, PHP, Python, C, Cpp, C#, Perl, Java, Kotkin, Swift, Objective-C, Javascript
 * Функциональные: Haskell, Erlang
 * Логические: Prolog
