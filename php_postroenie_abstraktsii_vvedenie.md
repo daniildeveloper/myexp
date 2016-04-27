@@ -10,7 +10,7 @@
 
 Примеры языков: 
 * Мультипарадигменные: Clojure(семейство Lisp), Ocaml, Scala, F#;
-* Императивные: Ruby, PHP, Python, C, Cpp, C#, Perl, Java, Kotkin, Swift, Objective-C, Javascript
+* Императивные: Ruby, PHP, Python, C, Cpp, C#, Perl, Java, Kotlin, Swift, Objective-C, Javascript
 * Функциональные: Haskell, Erlang
 * Логические: Prolog
 
