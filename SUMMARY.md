@@ -5,5 +5,5 @@
 * [hexletio](hexletio.md)
    * [PHP. Построение абстракций. Введение](php_postroenie_abstraktsii_vvedenie.md)
 * [Математика СЗТУ](matematika.md)
-   * Математика часть 1 (лекция 1)
+   * [Математика часть 1 (лекция 1)](matematika_chast_1_lektsiya_1.md)
 
