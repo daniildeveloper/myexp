@@ -7,4 +7,5 @@
 * [Математика СЗТУ](matematika.md)
    * [Математика часть 1 (лекция 1)](matematika_chast_1_lektsiya_1.md)
 * [netbeans](netbeans.md)
+   * Netbeans modular system
 
