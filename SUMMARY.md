@@ -9,5 +9,5 @@
 * [netbeans](netbeans.md)
    * [Netbeans modular system](netbeans_modular_system.md)
    * [Что такое модуль?](chto_takoe_modul.md)
-   * Как стать проффесиональным разработчиком модулей
+   * [Как стать проффесиональным разработчиком модулей](kak_stat_proffesionalnim_razrabotchikom_modulei.md)
 
