@@ -14,3 +14,20 @@
   
   
   
+### Английский вариант:
+
+
+  NetBeans is a modular application. That means it is composed of pieces, which are discovered at runtime. Some of those pieces may even be downloaded and installed or uninstalled at runtime.
+
+A module is a library. It is a Java JAR (Java ARchive) file which contains some classes.
+
+NetBeans is a Java application. It has a very small core runtime which knows how to find the modules that make up the application (the launcher passes a list of directories - these are commonly called clusters - which contain module JAR files and some XML metadata about them).
+
+All real functionality of the NetBeans IDE or any NetBeans-based application is implemented as modules.
+
+A module JAR contains some additional entries in its META-INF/MANIFEST.MF file, which tell NetBeans about the module - its name, its version, etc.
+
+One distinction about NetBeans modules, as opposed to just working with JAR files on your classpath is that the NetBeans runtime enforces dependency management between modules - to call code in another module from yours, your module must declare a dependency on the other module.
+
+Another significant distinction is that a module can specify which (if any) packages it makes visible to modules that depend on it - so it is possible to have Java packages in a module's JAR file which are visible only to other classes within that JAR file. That, in effect, extends Java's class visibility-scoping rules (public, protected, private, package-private) to include public only within this JAR file.
+  
