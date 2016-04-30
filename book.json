@@ -8,7 +8,8 @@
         "gist",
         "github",
         "github-buttons",
-        "regexplace"
+        "regexplace",
+        "styleguide"
     ],
     "pluginsConfig": {}
 }
