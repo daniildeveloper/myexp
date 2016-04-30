@@ -1,7 +1,8 @@
 {
     "plugins": [
         "ace",
-        "addcssjs"
+        "addcssjs",
+        "bootstrapjs"
     ],
     "pluginsConfig": {}
 }
