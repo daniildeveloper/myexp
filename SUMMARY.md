@@ -11,5 +11,5 @@
    * [Что такое модуль?](chto_takoe_modul.md)
    * [Как стать проффесиональным разработчиком модулей](kak_stat_proffesionalnim_razrabotchikom_modulei.md)
 * [Переводы статей](perevodi_statei.md)
-   * A Most Simple PHP MVC Beginners Tutorial
+   * [A Most Simple PHP MVC Beginners Tutorial](a_most_simple_php_mvc_beginners_tutorial.md)
 
