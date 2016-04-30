@@ -7,7 +7,8 @@
         "customtheme",
         "gist",
         "github",
-        "github-buttons"
+        "github-buttons",
+        "regexplace"
     ],
     "pluginsConfig": {}
 }
