@@ -6,7 +6,8 @@
         "catalog",
         "customtheme",
         "gist",
-        "github"
+        "github",
+        "github-buttons"
     ],
     "pluginsConfig": {}
 }
