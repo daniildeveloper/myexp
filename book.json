@@ -4,7 +4,8 @@
         "addcssjs",
         "bootstrapjs",
         "catalog",
-        "customtheme"
+        "customtheme",
+        "gist"
     ],
     "pluginsConfig": {}
 }
