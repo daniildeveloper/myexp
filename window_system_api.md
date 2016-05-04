@@ -25,7 +25,7 @@ have code for closing the group
 I think I do #2 in FooTopComponent.componentActivated() and #3 in FooTopComponent.componentDeactivated(). Is that right?
 A:Yes it is correct way. You can check simple test module. First you must get TopComponentGroup instance using find method then call TopComponentGroup.open()/close(). Here is the code in your componentDeactivated method:
 
-``` 
+``` <code src="java">
    protected void componentDeactivated ()
    {
        // close window group containing propsheet, but only if we're
@@ -44,5 +44,6 @@ A:Yes it is correct way. You can check simple test module. First you must get To
            }
        }
    }  
+   </code>
    ```
     
