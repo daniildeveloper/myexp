@@ -1,6 +1,6 @@
 # Window System Api
 
-| package | 1:0 |
+| package | Описание |
 | -- | -- |
-| org.openide.windows | 1:2 |
+| org.openide.windows | Большинство частей не работают с окнами напрямую, но используют специальные инструменты |
 
