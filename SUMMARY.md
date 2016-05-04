@@ -10,7 +10,7 @@
    * [Netbeans modular system](netbeans_modular_system.md)
    * [Что такое модуль?](chto_takoe_modul.md)
    * [Как стать проффесиональным разработчиком модулей](kak_stat_proffesionalnim_razrabotchikom_modulei.md)
-   * What API do I want to use for x, y or z?
+   * [What API do I want to use for x, y or z?](what_api_do_i_want_to_use_for_x,_y_or_z.md)
 * [Переводы статей](perevodi_statei.md)
    * [A Most Simple PHP MVC Beginners Tutorial](a_most_simple_php_mvc_beginners_tutorial.md)
 
