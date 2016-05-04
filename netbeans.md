@@ -12,4 +12,5 @@
 
 
 ##Список API:
+* [Window system API](window_system_api.md)
 * 
