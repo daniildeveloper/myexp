@@ -10,7 +10,7 @@ Actions: hacking, malware, physical, push, pull.
 ####Specific threats of PHP:
 * problems due misconfiguration;
 * failure to filter and validate $_* data;
-* 
+* Attacks 
 
 
 
