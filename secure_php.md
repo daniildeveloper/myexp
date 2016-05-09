@@ -10,11 +10,18 @@ Actions: hacking, malware, physical, push, pull.
 ####Specific threats of PHP:
 * problems due misconfiguration;
 * failure to filter and validate $_* data;
-* Attacks 
+* Attacks: XSS, Sessions. injection
+* Opensource vulnerabiliteis
+
+
+
 
 
 
 ####Resources to read
 * OSWAP
 * darkreading
-
+* nakedsecurity
+* nbcnews
+* whitehat security
+* 
