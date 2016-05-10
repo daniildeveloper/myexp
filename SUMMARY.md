@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
+   * 7
 * [hexletio](hexletio.md)
    * [PHP. Построение абстракций. Введение](php_postroenie_abstraktsii_vvedenie.md)
 * [Математика СЗТУ](matematika.md)
