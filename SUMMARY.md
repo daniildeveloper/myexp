@@ -17,4 +17,5 @@
    * [A Most Simple PHP MVC Beginners Tutorial](a_most_simple_php_mvc_beginners_tutorial.md)
 * [PHP](php.md)
    * [Secure php](secure_php.md)
+* SICP Python translate
 
