@@ -28,7 +28,7 @@
 * [Марафоны, челленджи, стартапы](maraphon/index.md)
 
   * [Своя веб студия за 7 недель](maraphon/web-studio.md)
-  * \[Sap Coder\]\(maraphon/sap-coder.md\)
+  * [maraphon/sap-coder.md](/maraphon/sap-coder.md "Sap Coder")
 
 
 
