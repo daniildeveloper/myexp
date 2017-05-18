@@ -24,3 +24,6 @@
 * [My Plans](myplans.md)
     * [События по блокировке в украине](plans/ukraina.md)
 
+* [Марафоны, челленджи, стартапы](maraphon/index.md)
+    * [Своя веб студия за 7 недель](maraphon/web-studio.md)
+
